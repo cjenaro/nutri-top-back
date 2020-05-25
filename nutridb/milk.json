@@ -1,0 +1,140 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"kcal","Agua":"g","Proteínas":"g","Grasa Total":"g","Carbohidratos totales":"g","Cenizas":"g","Sodio":"mg","Potasio":"mg","Calcio":"mg","Fósforo":"mg","Hierro":"mg","Zinc":"mg","Tiamina":"mg","Rivoflavina":"mg","Niacina":"mg","Vitamina C":"mg"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"2*0","Agua":"1*1","Proteínas":"3*1","Grasa Total":"4*1","Carbohidratos totales":"6*1","Cenizas":"5*2","Sodio":"13*0","Potasio":"14*0","Calcio":"15*0","Fósforo":"16*0","Hierro":"17*2","Zinc":"18*1","Tiamina":"21*3","Rivoflavina":"22*3","Niacina":"23*2","Vitamina C":"24*1"}
+,
+{"Nº":"","Alimento":"Leche","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"296","Alimento":"Leche de burra, entera, fluida","Género - especie - variedad":"","field4":"","Energía":"45","Agua":"90.5","Proteínas":"1.9","Grasa Total":"1.4","Carbohidratos totales":"6.2","Cenizas":"...","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"297","Alimento":"Leche de cabra, entera, fluida","Género - especie - variedad":"","field4":"","Energía":"78","Agua":"86.2","Proteínas":"3.3","Grasa Total":"5.9","Carbohidratos totales":"3.0","Cenizas":"1.60","Sodio":"27","Potasio":"171","Calcio":"153","Fósforo":"139","Hierro":"0.26","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"298","Alimento":"Leche de oveja, entera, fluida","Género - especie - variedad":"","field4":"","Energía":"99","Agua":"82.6","Proteínas":"5.5","Grasa Total":"6.5","Carbohidratos totales":"4.5","Cenizas":"0.90","Sodio":"30","Potasio":"187","Calcio":"207","Fósforo":"123","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"303","Alimento":"Leche de vaca parcialm. descremada, adic. con vit A y D","Género - especie - variedad":"","field4":"","Energía":"44","Agua":"90.1","Proteínas":"3.2","Grasa Total":"1.4","Carbohidratos totales":"4.6","Cenizas":"0.68","Sodio":"55","Potasio":"138","Calcio":"120","Fósforo":"109","Hierro":"0.08","Zinc":"0.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"302","Alimento":"Leche de vaca, entera, fluida, adicionada con vitamina A","Género - especie - variedad":"","field4":"","Energía":"57","Agua":"88.7","Proteínas":"3.1","Grasa Total":"2.9","Carbohidratos totales":"4.6","Cenizas":"0.70","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"301","Alimento":"Leche de vaca, entera, fluida, pasteurizada","Género - especie - variedad":"","field4":"","Energía":"57","Agua":"88.7","Proteínas":"3.1","Grasa Total":"2.9","Carbohidratos totales":"4.6","Cenizas":"0.66","Sodio":"57","Potasio":"137","Calcio":"123","Fósforo":"95","Hierro":"0.07","Zinc":"0.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"305","Alimento":"Leche en polvo descremada","Género - especie - variedad":"","field4":"","Energía":"370","Agua":"3.2","Proteínas":"35.5","Grasa Total":"1.0","Carbohidratos totales":"52.2","Cenizas":"8.20","Sodio":"563","Potasio":"1640","Calcio":"1303","Fósforo":"1027","Hierro":"0.53","Zinc":"0.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"304","Alimento":"Leche en polvo entera","Género - especie - variedad":"","field4":"","Energía":"489","Agua":"2.8","Proteínas":"25.8","Grasa Total":"24.8","Carbohidratos totales":"40.9","Cenizas":"5.70","Sodio":"404","Potasio":"1224","Calcio":"821","Fósforo":"761","Hierro":"0.54","Zinc":"3.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"300","Alimento":"Leche humana, entera, en polvo","Género - especie - variedad":"","field4":"","Energía":"520","Agua":"7.0","Proteínas":"9.6","Grasa Total":"31.5","Carbohidratos totales":"49.5","Cenizas":"2.40","Sodio":"114","Potasio":"383","Calcio":"229","Fósforo":"110","Hierro":"0.48","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"299","Alimento":"Leche humana, entera, fluida","Género - especie - variedad":"","field4":"","Energía":"71","Agua":"87.0","Proteínas":"1.1","Grasa Total":"4.2","Carbohidratos totales":"7.1","Cenizas":"0.60","Sodio":"11","Potasio":"44","Calcio":"32","Fósforo":"14","Hierro":"0.04","Zinc":"","Tiamina":"0.018","Rivoflavina":"0.035","Niacina":"0.40","Vitamina C":"4.4"}
+,
+{"Nº":"306","Alimento":"Leche, condensada, Nestlé","Género - especie - variedad":"","field4":"","Energía":"328","Agua":"23.6","Proteínas":"8.0","Grasa Total":"8.1","Carbohidratos totales":"55.8","Cenizas":"4.50","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Manteca","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"307","Alimento":"Manteca, fresca","Género - especie - variedad":"","field4":"","Energía":"758","Agua":"15.3","Proteínas":"0.5","Grasa Total":"84.0","Carbohidratos totales":"...","Cenizas":"0.20","Sodio":"223","Potasio":"15","Calcio":"15","Fósforo":"24","Hierro":"0.16","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Quesos untables","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"308","Alimento":"Queso crema, entero, untable","Género - especie - variedad":"","field4":"","Energía":"246","Agua":"66.2","Proteínas":"6.6","Grasa Total":"22.6","Carbohidratos totales":"3.9","Cenizas":"0.64","Sodio":"74","Potasio":"148","Calcio":"56","Fósforo":"97","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"310","Alimento":"Queso descremado, untable","Género - especie - variedad":"","field4":"","Energía":"82","Agua":"78.6","Proteínas":"13.7","Grasa Total":"0.3","Carbohidratos totales":"6.1","Cenizas":"1.29","Sodio":"106","Potasio":"260","Calcio":"116","Fósforo":"198","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"309","Alimento":"Queso semidescremado, untable","Género - especie - variedad":"","field4":"","Energía":"104","Agua":"77.8","Proteínas":"11.5","Grasa Total":"4.0","Carbohidratos totales":"5.5","Cenizas":"1.14","Sodio":"90","Potasio":"202","Calcio":"102","Fósforo":"175","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"311","Alimento":"Queso, Petit Suisse","Género - especie - variedad":"","field4":"","Energía":"182","Agua":"68.1","Proteínas":"14.1","Grasa Total":"14.0","Carbohidratos totales":"...","Cenizas":"3.80","Sodio":"30","Potasio":"81","Calcio":"75","Fósforo":"161","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Quesos blandos","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"552","Alimento":"Queso  Blanco Argentino Semimagro","Género - especie - variedad":"","field4":"","Energía":"104","Agua":"77.8","Proteínas":"11.5","Grasa Total":"4.0","Carbohidratos totales":"5.6","Cenizas":"1.14","Sodio":"90","Potasio":"202","Calcio":"102","Fósforo":"175","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"312","Alimento":"Queso Belpaese","Género - especie - variedad":"","field4":"","Energía":"309","Agua":"47.7","Proteínas":"20.3","Grasa Total":"25.3","Carbohidratos totales":"...","Cenizas":"6.70","Sodio":"510","Potasio":"56","Calcio":"610","Fósforo":"450","Hierro":"","Zinc":"","Tiamina":"0.037","Rivoflavina":"0.448","Niacina":"","Vitamina C":""}
+,
+{"Nº":"313","Alimento":"Queso Camembert","Género - especie - variedad":"","field4":"","Energía":"287","Agua":"55.3","Proteínas":"20.1","Grasa Total":"23.0","Carbohidratos totales":"...","Cenizas":"1.60","Sodio":"1240","Potasio":"66","Calcio":"75","Fósforo":"330","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"318","Alimento":"Queso Limburgués","Género - especie - variedad":"","field4":"","Energía":"324","Agua":"47.8","Proteínas":"21.8","Grasa Total":"26.3","Carbohidratos totales":"...","Cenizas":"4.10","Sodio":"800","Potasio":"59","Calcio":"225","Fósforo":"250","Hierro":"","Zinc":"","Tiamina":"0.030","Rivoflavina":"0.648","Niacina":"","Vitamina C":""}
+,
+{"Nº":"319","Alimento":"Queso Por Salut","Género - especie - variedad":"","field4":"","Energía":"301","Agua":"49.8","Proteínas":"20.4","Grasa Total":"22.7","Carbohidratos totales":"3.7","Cenizas":"3.30","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"315","Alimento":"Queso cremoso","Género - especie - variedad":"","field4":"","Energía":"302","Agua":"49.9","Proteínas":"19.7","Grasa Total":"22.9","Carbohidratos totales":"4.2","Cenizas":"3.30","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"316","Alimento":"Queso cuartirolo","Género - especie - variedad":"","field4":"","Energía":"291","Agua":"50.2","Proteínas":"20.8","Grasa Total":"21.4","Carbohidratos totales":"3.9","Cenizas":"3.70","Sodio":"360","Potasio":"64","Calcio":"625","Fósforo":"700","Hierro":"","Zinc":"","Tiamina":"0.037","Rivoflavina":"0.929","Niacina":"","Vitamina C":""}
+,
+{"Nº":"317","Alimento":"Queso doble crema","Género - especie - variedad":"","field4":"","Energía":"260","Agua":"59.5","Proteínas":"18.0","Grasa Total":"20.9","Carbohidratos totales":"...","Cenizas":"1.60","Sodio":"500","Potasio":"69","Calcio":"460","Fósforo":"321","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"314","Alimento":"Queso mozarella","Género - especie - variedad":"","field4":"","Energía":"282","Agua":"50.7","Proteínas":"23.6","Grasa Total":"19.3","Carbohidratos totales":"3.3","Cenizas":"3.10","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Quesos semiduros","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"320","Alimento":"Queso Cheddar","Género - especie - variedad":"","field4":"","Energía":"357","Agua":"36.0","Proteínas":"29.5","Grasa Total":"26.5","Carbohidratos totales":"...","Cenizas":"8.00","Sodio":"390","Potasio":"41","Calcio":"800","Fósforo":"750","Hierro":"","Zinc":"","Tiamina":"0.049","Rivoflavina":"1.229","Niacina":"","Vitamina C":""}
+,
+{"Nº":"321","Alimento":"Queso Chubut","Género - especie - variedad":"","field4":"","Energía":"328","Agua":"42.1","Proteínas":"25.9","Grasa Total":"24.9","Carbohidratos totales":"...","Cenizas":"7.10","Sodio":"270","Potasio":"68","Calcio":"450","Fósforo":"500","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"322","Alimento":"Queso Fontina","Género - especie - variedad":"","field4":"","Energía":"340","Agua":"36.4","Proteínas":"24.3","Grasa Total":"33.6","Carbohidratos totales":"...","Cenizas":"5.70","Sodio":"690","Potasio":"72","Calcio":"765","Fósforo":"450","Hierro":"","Zinc":"","Tiamina":"0.069","Rivoflavina":"0.312","Niacina":"","Vitamina C":""}
+,
+{"Nº":"323","Alimento":"Queso Gorgonzola","Género - especie - variedad":"","field4":"","Energía":"480","Agua":"31.7","Proteínas":"21.6","Grasa Total":"43.7","Carbohidratos totales":"...","Cenizas":"3.00","Sodio":"930","Potasio":"123","Calcio":"340","Fósforo":"215","Hierro":"","Zinc":"","Tiamina":"0.045","Rivoflavina":"0.390","Niacina":"","Vitamina C":""}
+,
+{"Nº":"324","Alimento":"Queso Gruyere","Género - especie - variedad":"","field4":"","Energía":"379","Agua":"37.1","Proteínas":"28.6","Grasa Total":"29.4","Carbohidratos totales":"...","Cenizas":"4.90","Sodio":"542","Potasio":"128","Calcio":"1080","Fósforo":"698","Hierro":"0.26","Zinc":"","Tiamina":"0.040","Rivoflavina":"0.612","Niacina":"","Vitamina C":""}
+,
+{"Nº":"325","Alimento":"Queso Holanda","Género - especie - variedad":"","field4":"","Energía":"345","Agua":"37.6","Proteínas":"25.1","Grasa Total":"27.2","Carbohidratos totales":"...","Cenizas":"10.10","Sodio":"730","Potasio":"84","Calcio":"890","Fósforo":"630","Hierro":"","Zinc":"","Tiamina":"0.056","Rivoflavina":"0.268","Niacina":"","Vitamina C":""}
+,
+{"Nº":"326","Alimento":"Queso Pategrás","Género - especie - variedad":"","field4":"","Energía":"410","Agua":"33.7","Proteínas":"24.8","Grasa Total":"34.5","Carbohidratos totales":"...","Cenizas":"7.00","Sodio":"720","Potasio":"74","Calcio":"475","Fósforo":"530","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"327","Alimento":"Queso Roquefort","Género - especie - variedad":"","field4":"","Energía":"426","Agua":"37.6","Proteínas":"19.2","Grasa Total":"38.8","Carbohidratos totales":"...","Cenizas":"4.40","Sodio":"1210","Potasio":"74","Calcio":"200","Fósforo":"250","Hierro":"","Zinc":"","Tiamina":"0.239","Rivoflavina":"0.404","Niacina":"","Vitamina C":""}
+,
+{"Nº":"328","Alimento":"Queso Suizo","Género - especie - variedad":"","field4":"","Energía":"404","Agua":"34.0","Proteínas":"28.6","Grasa Total":"31.3","Carbohidratos totales":"1.9","Cenizas":"4.20","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"329","Alimento":"Queso Tafí","Género - especie - variedad":"","field4":"","Energía":"358","Agua":"41.0","Proteínas":"21.8","Grasa Total":"30.1","Carbohidratos totales":"...","Cenizas":"7.10","Sodio":"750","Potasio":"69","Calcio":"340","Fósforo":"272","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"330","Alimento":"Queso Tandil","Género - especie - variedad":"","field4":"","Energía":"345","Agua":"41.9","Proteínas":"25.5","Grasa Total":"27.0","Carbohidratos totales":"...","Cenizas":"5.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"550","Alimento":"Queso azul","Género - especie - variedad":"","field4":"","Energía":"377","Agua":"40.2","Proteínas":"20.0","Grasa Total":"31.1","Carbohidratos totales":"4.3","Cenizas":"4.41","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"331","Alimento":"Queso tipo Mar del Plata","Género - especie - variedad":"","field4":"","Energía":"332","Agua":"39.0","Proteínas":"25.4","Grasa Total":"25.6","Carbohidratos totales":"...","Cenizas":"9.70","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Quesos duros","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"332","Alimento":"Queso Goya","Género - especie - variedad":"","field4":"","Energía":"402","Agua":"29.2","Proteínas":"29.7","Grasa Total":"31.5","Carbohidratos totales":"...","Cenizas":"9.60","Sodio":"1020","Potasio":"68","Calcio":"950","Fósforo":"510","Hierro":"","Zinc":"","Tiamina":"0.054","Rivoflavina":"0.613","Niacina":"","Vitamina C":""}
+,
+{"Nº":"333","Alimento":"Queso Parmesano","Género - especie - variedad":"","field4":"","Energía":"350","Agua":"34.3","Proteínas":"32.7","Grasa Total":"24.4","Carbohidratos totales":"...","Cenizas":"8.60","Sodio":"680","Potasio":"61","Calcio":"1170","Fósforo":"775","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"334","Alimento":"Queso Provolone","Género - especie - variedad":"","field4":"","Energía":"391","Agua":"31.9","Proteínas":"32.1","Grasa Total":"29.2","Carbohidratos totales":"...","Cenizas":"6.80","Sodio":"1190","Potasio":"72","Calcio":"925","Fósforo":"765","Hierro":"","Zinc":"","Tiamina":"0.068","Rivoflavina":"0.280","Niacina":"","Vitamina C":""}
+,
+{"Nº":"335","Alimento":"Queso Reggianito","Género - especie - variedad":"","field4":"","Energía":"365","Agua":"33.6","Proteínas":"33.4","Grasa Total":"24.2","Carbohidratos totales":"3.4","Cenizas":"5.46","Sodio":"1230","Potasio":"61","Calcio":"950","Fósforo":"610","Hierro":"","Zinc":"","Tiamina":"0.045","Rivoflavina":"0.274","Niacina":"","Vitamina C":""}
+,
+{"Nº":"336","Alimento":"Queso Sardo","Género - especie - variedad":"","field4":"","Energía":"402","Agua":"30.8","Proteínas":"30.0","Grasa Total":"29.1","Carbohidratos totales":"5.0","Cenizas":"5.14","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"337","Alimento":"Queso Sbrinz","Género - especie - variedad":"","field4":"","Energía":"357","Agua":"35.1","Proteínas":"29.4","Grasa Total":"26.6","Carbohidratos totales":"...","Cenizas":"8.90","Sodio":"870","Potasio":"67","Calcio":"985","Fósforo":"830","Hierro":"","Zinc":"","Tiamina":"0.051","Rivoflavina":"0.245","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Ricota","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"338","Alimento":"Ricota de leche entera","Género - especie - variedad":"","field4":"","Energía":"168","Agua":"70.9","Proteínas":"11.6","Grasa Total":"11.8","Carbohidratos totales":"4.0","Cenizas":"1.58","Sodio":"146","Potasio":"155","Calcio":"193","Fósforo":"241","Hierro":"0.26","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"551","Alimento":"Ricotta semidescremada","Género - especie - variedad":"","field4":"","Energía":"168","Agua":"70.9","Proteínas":"11.6","Grasa Total":"11.7","Carbohidratos totales":"4.0","Cenizas":"1.58","Sodio":"160","Potasio":"155","Calcio":"207","Fósforo":"243","Hierro":"0.42","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Yogur","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"341","Alimento":"Yogur descremado","Género - especie - variedad":"","field4":"","Energía":"59","Agua":"88.5","Proteínas":"4.3","Grasa Total":"0.2","Carbohidratos totales":"5.9","Cenizas":"1.10","Sodio":"75","Potasio":"177","Calcio":"110","Fósforo":"125","Hierro":"0.09","Zinc":"0.37","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"343","Alimento":"Yogur descremado bebible","Género - especie - variedad":"","field4":"","Energía":"30","Agua":"91.8","Proteínas":"3.3","Grasa Total":"0.1","Carbohidratos totales":"4.1","Cenizas":"0.79","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"432","Alimento":"Yogur descremado fortificado con Ca","Género - especie - variedad":"","field4":"","Energía":"48","Agua":"86.8","Proteínas":"4.6","Grasa Total":"0.1","Carbohidratos totales":"7.1","Cenizas":"1.40","Sodio":"121","Potasio":"200","Calcio":"247","Fósforo":"188","Hierro":"0.10","Zinc":"0.5","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"342","Alimento":"Yogur entero bebible","Género - especie - variedad":"","field4":"","Energía":"82","Agua":"81.7","Proteínas":"2.8","Grasa Total":"2.2","Carbohidratos totales":"12.7","Cenizas":"0.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"339","Alimento":"Yogur entero natural","Género - especie - variedad":"","field4":"","Energía":"66","Agua":"86.1","Proteínas":"4.6","Grasa Total":"3.0","Carbohidratos totales":"5.3","Cenizas":"1.00","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"340","Alimento":"Yogur entero saborizado","Género - especie - variedad":"","field4":"","Energía":"88","Agua":"79.8","Proteínas":"4.4","Grasa Total":"2.4","Carbohidratos totales":"12.4","Cenizas":"1.00","Sodio":"59","Potasio":"172","Calcio":"125","Fósforo":"114","Hierro":"0.10","Zinc":"0.4","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+
+]

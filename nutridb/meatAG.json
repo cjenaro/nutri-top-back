@@ -1,0 +1,114 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"g","Ac":{" grasos saturados":"g"," grasos monoinsaturados":"g"," grasos poliinsaturados":"g"},"AGPw6":"g","AGPw3":"g","Colesterol":"mg"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"4*1","Ac":{" grasos saturados":"9*2"," grasos monoinsaturados":"10*2"," grasos poliinsaturados":"11*2"},"AGPw6":"111*3","AGPw3":"112*2","Colesterol":"12*1"}
+,
+{"Nº":"","Alimento":"Cerdo (1)","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"258","Alimento":"Bola de lomo","Género - especie - variedad":"","field4":"","Grasa Total":"2.5","Ac":{" grasos saturados":"0.80"," grasos monoinsaturados":"1.30"," grasos poliinsaturados":"0.20"},"AGPw6":"","AGPw3":"","Colesterol":"46.0"}
+,
+{"Nº":"259","Alimento":"Carré","Género - especie - variedad":"","field4":"","Grasa Total":"2.0","Ac":{" grasos saturados":"0.70"," grasos monoinsaturados":"1.00"," grasos poliinsaturados":"0.20"},"AGPw6":"","AGPw3":"","Colesterol":"42.0"}
+,
+{"Nº":"260","Alimento":"Cuadrada","Género - especie - variedad":"","field4":"","Grasa Total":"3.2","Ac":{" grasos saturados":"1.10"," grasos monoinsaturados":"1.60"," grasos poliinsaturados":"0.30"},"AGPw6":"","AGPw3":"","Colesterol":"43.0"}
+,
+{"Nº":"261","Alimento":"Lomo","Género - especie - variedad":"","field4":"","Grasa Total":"2.1","Ac":{" grasos saturados":"0.80"," grasos monoinsaturados":"1.00"," grasos poliinsaturados":"0.20"},"AGPw6":"","AGPw3":"","Colesterol":"44.0"}
+,
+{"Nº":"262","Alimento":"Nalga","Género - especie - variedad":"","field4":"","Grasa Total":"2.0","Ac":{" grasos saturados":"0.70"," grasos monoinsaturados":"1.00"," grasos poliinsaturados":"0.20"},"AGPw6":"","AGPw3":"","Colesterol":"42.0"}
+,
+{"Nº":"263","Alimento":"Peceto","Género - especie - variedad":"","field4":"","Grasa Total":"4.5","Ac":{" grasos saturados":"1.60"," grasos monoinsaturados":"2.20"," grasos poliinsaturados":"0.40"},"AGPw6":"","AGPw3":"","Colesterol":"50.0"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"","Alimento":"Cordero Patagónico (2)","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"270","Alimento":"Bife","Género - especie - variedad":"","field4":"","Grasa Total":"1.8","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":"56.0"}
+,
+{"Nº":"264","Alimento":"Bola de lomo","Género - especie - variedad":"","field4":"","Grasa Total":"2.2","Ac":{" grasos saturados":"0.90"," grasos monoinsaturados":"0.80"," grasos poliinsaturados":"0.30"},"AGPw6":"","AGPw3":"","Colesterol":"50.0"}
+,
+{"Nº":"265","Alimento":"Cuadrada","Género - especie - variedad":"","field4":"","Grasa Total":"2.3","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":"49.0"}
+,
+{"Nº":"266","Alimento":"Cuadril","Género - especie - variedad":"","field4":"","Grasa Total":"2.3","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":"49.0"}
+,
+{"Nº":"267","Alimento":"Nalga","Género - especie - variedad":"","field4":"","Grasa Total":"2.1","Ac":{" grasos saturados":"0.90"," grasos monoinsaturados":"0.80"," grasos poliinsaturados":"0.30"},"AGPw6":"","AGPw3":"","Colesterol":"50.0"}
+,
+{"Nº":"268","Alimento":"Peceto","Género - especie - variedad":"","field4":"","Grasa Total":"2.2","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":"49.0"}
+,
+{"Nº":"269","Alimento":"Total pata","Género - especie - variedad":"","field4":"","Grasa Total":"2.3","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":"50.0"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"","Alimento":"Pollos  (3)","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"271","Alimento":"Pata sin piel","Género - especie - variedad":"","field4":"","Grasa Total":"3.9","Ac":{" grasos saturados":"1.20"," grasos monoinsaturados":"1.40"," grasos poliinsaturados":"1.20"},"AGPw6":"1.077","AGPw3":"0.10","Colesterol":"68.0"}
+,
+{"Nº":"272","Alimento":"Pechuga sin piel","Género - especie - variedad":"","field4":"","Grasa Total":"1.2","Ac":{" grasos saturados":"0.40"," grasos monoinsaturados":"0.40"," grasos poliinsaturados":"0.40"},"AGPw6":"0.378","AGPw3":"0.04","Colesterol":"45.0"}
+,
+{"Nº":"273","Alimento":"Piel sola","Género - especie - variedad":"","field4":"","Grasa Total":"45.7","Ac":{" grasos saturados":"12.70"," grasos monoinsaturados":"17.20"," grasos poliinsaturados":"13.10"},"AGPw6":"11.900","AGPw3":"1.08","Colesterol":"102.0"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"","Alimento":"Vacuno  - cortes de animales con nivel de gordura 1  (4)","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"274","Alimento":"Bife angosto","Género - especie - variedad":"","field4":"","Grasa Total":"2.4","Ac":{" grasos saturados":"1.00"," grasos monoinsaturados":"1.00"," grasos poliinsaturados":"0.20"},"AGPw6":"0.100","AGPw3":"0.04","Colesterol":"52.0"}
+,
+{"Nº":"275","Alimento":"Bola de lomo","Género - especie - variedad":"","field4":"","Grasa Total":"2.6","Ac":{" grasos saturados":"1.10"," grasos monoinsaturados":"1.10"," grasos poliinsaturados":"0.20"},"AGPw6":"0.160","AGPw3":"0.06","Colesterol":"48.0"}
+,
+{"Nº":"279","Alimento":"Cuadrada","Género - especie - variedad":"","field4":"","Grasa Total":"1.1","Ac":{" grasos saturados":"0.50"," grasos monoinsaturados":"0.50"," grasos poliinsaturados":"0.10"},"AGPw6":"0.070","AGPw3":"0.03","Colesterol":"49.0"}
+,
+{"Nº":"276","Alimento":"Cuadril, colita","Género - especie - variedad":"","field4":"","Grasa Total":"1.9","Ac":{" grasos saturados":"0.80"," grasos monoinsaturados":"0.80"," grasos poliinsaturados":"0.20"},"AGPw6":"0.110","AGPw3":"0.05","Colesterol":"51.0"}
+,
+{"Nº":"277","Alimento":"Cuadril, corazón","Género - especie - variedad":"","field4":"","Grasa Total":"2.2","Ac":{" grasos saturados":"1.00"," grasos monoinsaturados":"0.90"," grasos poliinsaturados":"0.20"},"AGPw6":"0.090","AGPw3":"0.03","Colesterol":"50.0"}
+,
+{"Nº":"278","Alimento":"Cuadril, tapa","Género - especie - variedad":"","field4":"","Grasa Total":"3.0","Ac":{" grasos saturados":"1.30"," grasos monoinsaturados":"1.20"," grasos poliinsaturados":"0.20"},"AGPw6":"0.130","AGPw3":"0.04","Colesterol":"46.0"}
+,
+{"Nº":"280","Alimento":"Lomo","Género - especie - variedad":"","field4":"","Grasa Total":"3.8","Ac":{" grasos saturados":"1.60"," grasos monoinsaturados":"1.50"," grasos poliinsaturados":"0.30"},"AGPw6":"0.160","AGPw3":"0.06","Colesterol":"54.0"}
+,
+{"Nº":"281","Alimento":"Marucha","Género - especie - variedad":"","field4":"","Grasa Total":"3.6","Ac":{" grasos saturados":"1.60"," grasos monoinsaturados":"1.40"," grasos poliinsaturados":"0.30"},"AGPw6":"0.150","AGPw3":"0.05","Colesterol":"56.0"}
+,
+{"Nº":"282","Alimento":"Nalga","Género - especie - variedad":"","field4":"","Grasa Total":"1.0","Ac":{" grasos saturados":"0.40"," grasos monoinsaturados":"0.40"," grasos poliinsaturados":"0.10"},"AGPw6":"0.060","AGPw3":"0.03","Colesterol":"51.0"}
+,
+{"Nº":"283","Alimento":"Palomita","Género - especie - variedad":"","field4":"","Grasa Total":"4.6","Ac":{" grasos saturados":"2.00"," grasos monoinsaturados":"1.80"," grasos poliinsaturados":"0.40"},"AGPw6":"0.200","AGPw3":"0.07","Colesterol":"53.0"}
+,
+{"Nº":"284","Alimento":"Peceto","Género - especie - variedad":"","field4":"","Grasa Total":"1.6","Ac":{" grasos saturados":"0.70"," grasos monoinsaturados":"0.70"," grasos poliinsaturados":"0.10"},"AGPw6":"0.100","AGPw3":"0.04","Colesterol":"45.0"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"","Alimento":"Vacuno  - cortes de animales con nivel de gordura 2  (5)","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"285","Alimento":"Bife angosto","Género - especie - variedad":"","field4":"","Grasa Total":"3.2","Ac":{" grasos saturados":"1.40"," grasos monoinsaturados":"1.30"," grasos poliinsaturados":"0.30"},"AGPw6":"0.140","AGPw3":"0.05","Colesterol":"52.0"}
+,
+{"Nº":"286","Alimento":"Bola de lomo","Género - especie - variedad":"","field4":"","Grasa Total":"3.1","Ac":{" grasos saturados":"1.30"," grasos monoinsaturados":"1.30"," grasos poliinsaturados":"0.30"},"AGPw6":"0.190","AGPw3":"0.08","Colesterol":"47.0"}
+,
+{"Nº":"290","Alimento":"Cuadrada","Género - especie - variedad":"","field4":"","Grasa Total":"1.2","Ac":{" grasos saturados":"0.50"," grasos monoinsaturados":"0.50"," grasos poliinsaturados":"0.10"},"AGPw6":"0.700","AGPw3":"0.03","Colesterol":"48.0"}
+,
+{"Nº":"287","Alimento":"Cuadril, colita","Género - especie - variedad":"","field4":"","Grasa Total":"2.7","Ac":{" grasos saturados":"1.10"," grasos monoinsaturados":"1.10"," grasos poliinsaturados":"0.20"},"AGPw6":"0.160","AGPw3":"0.07","Colesterol":"51.0"}
+,
+{"Nº":"288","Alimento":"Cuadril, corazón","Género - especie - variedad":"","field4":"","Grasa Total":"2.9","Ac":{" grasos saturados":"1.30"," grasos monoinsaturados":"1.20"," grasos poliinsaturados":"0.20"},"AGPw6":"0.120","AGPw3":"0.04","Colesterol":"57.0"}
+,
+{"Nº":"289","Alimento":"Cuadril, tapa","Género - especie - variedad":"","field4":"","Grasa Total":"4.2","Ac":{" grasos saturados":"1.80"," grasos monoinsaturados":"1.70"," grasos poliinsaturados":"0.30"},"AGPw6":"0.180","AGPw3":"0.06","Colesterol":"60.0"}
+,
+{"Nº":"291","Alimento":"Lomo","Género - especie - variedad":"","field4":"","Grasa Total":"5.2","Ac":{" grasos saturados":"2.20"," grasos monoinsaturados":"2.10"," grasos poliinsaturados":"0.40"},"AGPw6":"0.220","AGPw3":"0.08","Colesterol":"54.0"}
+,
+{"Nº":"292","Alimento":"Marucha","Género - especie - variedad":"","field4":"","Grasa Total":"3.9","Ac":{" grasos saturados":"1.70"," grasos monoinsaturados":"1.60"," grasos poliinsaturados":"0.30"},"AGPw6":"0.170","AGPw3":"0.06","Colesterol":"55.0"}
+,
+{"Nº":"293","Alimento":"Nalga","Género - especie - variedad":"","field4":"","Grasa Total":"1.1","Ac":{" grasos saturados":"0.50"," grasos monoinsaturados":"0.50"," grasos poliinsaturados":"0.10"},"AGPw6":"0.070","AGPw3":"0.03","Colesterol":"54.0"}
+,
+{"Nº":"294","Alimento":"Palomita","Género - especie - variedad":"","field4":"","Grasa Total":"5.4","Ac":{" grasos saturados":"2.30"," grasos monoinsaturados":"2.20"," grasos poliinsaturados":"0.40"},"AGPw6":"0.230","AGPw3":"0.08","Colesterol":"58.0"}
+,
+{"Nº":"295","Alimento":"Peceto","Género - especie - variedad":"","field4":"","Grasa Total":"1.8","Ac":{" grasos saturados":"0.70"," grasos monoinsaturados":"0.80"," grasos poliinsaturados":"0.20"},"AGPw6":"0.110","AGPw3":"0.04","Colesterol":"46.0"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"","Alimento":"Fiambres","Género - especie - variedad":"","field4":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""},"AGPw6":"","AGPw3":"","Colesterol":""}
+,
+{"Nº":"522","Alimento":"Jamon cocido \"Villafranca Novissimo\".El Bierzo. Reducido en colesterol","Género - especie - variedad":"","field4":"","Grasa Total":"2.5","Ac":{" grasos saturados":"0.90"," grasos monoinsaturados":"1.00"," grasos poliinsaturados":"0.30"},"AGPw6":"","AGPw3":"","Colesterol":"56.0"}
+,
+{"Nº":"523","Alimento":"Lomo ahumado de cerdo cocido \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Grasa Total":"2.0","Ac":{" grasos saturados":"0.70"," grasos monoinsaturados":"0.80"," grasos poliinsaturados":"0.20"},"AGPw6":"","AGPw3":"","Colesterol":"57.0"}
+,
+{"Nº":"524","Alimento":"Mortadela\" Villafranca Novissimo\". El Bierzo - reducida en grasa y en sodio","Género - especie - variedad":"","field4":"","Grasa Total":"5.7","Ac":{" grasos saturados":"2.50"," grasos monoinsaturados":"2.10"," grasos poliinsaturados":"0.50"},"AGPw6":"","AGPw3":"","Colesterol":"47.0"}
+,
+{"Nº":"525","Alimento":"Pastron ahumado \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Grasa Total":"0.4","Ac":{" grasos saturados":"0.10"," grasos monoinsaturados":"0.10"," grasos poliinsaturados":"0.10"},"AGPw6":"","AGPw3":"","Colesterol":"33.0"}
+,
+{"Nº":"526","Alimento":"Salame \"Villafranca Novissimo\".El Bierzo.Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Grasa Total":"4.6","Ac":{" grasos saturados":"1.90"," grasos monoinsaturados":"1.70"," grasos poliinsaturados":"0.50"},"AGPw6":"","AGPw3":"","Colesterol":"48.0"}
+
+]

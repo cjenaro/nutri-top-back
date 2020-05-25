@@ -1,0 +1,28 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"kcal","Agua":"g","Proteínas":"g","Grasa Total":"g","Carbohidratos totales":"g","Cenizas":"g","Sodio":"mg","Potasio":"mg","Calcio":"mg","Fósforo":"mg","Hierro":"mg","Zinc":"mg","Tiamina":"mg","Rivoflavina":"mg","Niacina":"mg","Vitamina C":"mg"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"2*0","Agua":"1*1","Proteínas":"3*1","Grasa Total":"4*1","Carbohidratos totales":"6*1","Cenizas":"5*2","Sodio":"13*0","Potasio":"14*0","Calcio":"15*0","Fósforo":"16*0","Hierro":"17*2","Zinc":"18*1","Tiamina":"21*3","Rivoflavina":"22*3","Niacina":"23*2","Vitamina C":"24*1"}
+,
+{"Nº":"","Alimento":"Productos azucarados","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"351","Alimento":"Batata, dulce","Género - especie - variedad":"","field4":"","Energía":"263","Agua":"31.7","Proteínas":"0.9","Grasa Total":"0.1","Carbohidratos totales":"65.0","Cenizas":"2.30","Sodio":"19","Potasio":"231","Calcio":"24","Fósforo":"35","Hierro":"0.65","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"353","Alimento":"Chocolatín","Género - especie - variedad":"","field4":"","Energía":"549","Agua":"0.5","Proteínas":"5.4","Grasa Total":"31.5","Carbohidratos totales":"62.4","Cenizas":"0.20","Sodio":"93","Potasio":"487","Calcio":"175","Fósforo":"215","Hierro":"1.67","Zinc":"","Tiamina":"0.902","Rivoflavina":"1.163","Niacina":"5.40","Vitamina C":""}
+,
+{"Nº":"352","Alimento":"Ciruela, mermelada","Género - especie - variedad":"","field4":"","Energía":"306","Agua":"22.0","Proteínas":"3.7","Grasa Total":"0.2","Carbohidratos totales":"73.1","Cenizas":"1.00","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.041","Rivoflavina":"0.058","Niacina":"0.10","Vitamina C":"1.8"}
+,
+{"Nº":"546","Alimento":"Dulce de Leche Light","Género - especie - variedad":"","field4":"","Energía":"260","Agua":"28.5","Proteínas":"6.2","Grasa Total":"1.6","Carbohidratos totales":"52.9","Cenizas":"1.48","Sodio":"142","Potasio":"240","Calcio":"228","Fósforo":"182","Hierro":"0.29","Zinc":"0.7","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"549","Alimento":"Dulce de leche","Género - especie - variedad":"","field4":"","Energía":"314","Agua":"28.0","Proteínas":"6.5","Grasa Total":"6.6","Carbohidratos totales":"57.4","Cenizas":"1.49","Sodio":"138","Potasio":"265","Calcio":"253","Fósforo":"176","Hierro":"0.37","Zinc":"0.7","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"548","Alimento":"Dulce de leche para reposteria","Género - especie - variedad":"","field4":"","Energía":"317","Agua":"28.5","Proteínas":"7.3","Grasa Total":"7.5","Carbohidratos totales":"55.0","Cenizas":"1.70","Sodio":"141","Potasio":"371","Calcio":"279","Fósforo":"219","Hierro":"0.55","Zinc":"87.0","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"547","Alimento":"Dulce de leche repostero suelto","Género - especie - variedad":"","field4":"","Energía":"337","Agua":"24.4","Proteínas":"5.3","Grasa Total":"7.9","Carbohidratos totales":"7.9","Cenizas":"1.28","Sodio":"138","Potasio":"272","Calcio":"209","Fósforo":"146","Hierro":"1.61","Zinc":"0.8","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"354","Alimento":"Durazno, mermelada","Género - especie - variedad":"","field4":"","Energía":"304","Agua":"20.0","Proteínas":"3.5","Grasa Total":"0.1","Carbohidratos totales":"76.4","Cenizas":"0.00","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.006","Rivoflavina":"0.010","Niacina":"0.20","Vitamina C":""}
+,
+{"Nº":"355","Alimento":"Frutilla, mermelada","Género - especie - variedad":"","field4":"","Energía":"309","Agua":"22.0","Proteínas":"3.8","Grasa Total":"0.6","Carbohidratos totales":"73.2","Cenizas":"0.40","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"356","Alimento":"Leche, dulce de leche","Género - especie - variedad":"","field4":"","Energía":"341","Agua":"24.3","Proteínas":"8.1","Grasa Total":"9.0","Carbohidratos totales":"56.8","Cenizas":"1.80","Sodio":"122","Potasio":"393","Calcio":"322","Fósforo":"257","Hierro":"0.27","Zinc":"","Tiamina":"0.022","Rivoflavina":"0.973","Niacina":"","Vitamina C":""}
+
+]

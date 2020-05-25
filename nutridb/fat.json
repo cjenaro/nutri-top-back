@@ -1,0 +1,40 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"kcal","Agua":"g","Grasa Total":"g","Ac":{" grasos saturados":"g"," grasos monoinsaturados":"g"," grasos poliinsaturados":"g"}}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"2*0","Agua":"1*1","Grasa Total":"4*1","Ac":{" grasos saturados":"9*2"," grasos monoinsaturados":"10*2"," grasos poliinsaturados":"11*2"}}
+,
+{"Nº":"","Alimento":"Grasas y aceites","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Grasa Total":"","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""}}
+,
+{"Nº":"148","Alimento":"Aceite comestible mezcla Lira, 85% girasol, 15% oliva","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"12.00"," grasos monoinsaturados":"33.60"," grasos poliinsaturados":"54.60"}}
+,
+{"Nº":"149","Alimento":"Aceite comestible mezcla Patito, 94% girasol, 6% maiz","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"11.00"," grasos monoinsaturados":"27.60"," grasos poliinsaturados":"61.10"}}
+,
+{"Nº":"150","Alimento":"Aceite de canola","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"6.10"," grasos monoinsaturados":"55.00"," grasos poliinsaturados":"33.90"}}
+,
+{"Nº":"151","Alimento":"Aceite de girasol Familiar","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"10.90"," grasos monoinsaturados":"23.00"," grasos poliinsaturados":"61.70"}}
+,
+{"Nº":"152","Alimento":"Aceite de girasol Ideal","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"11.00"," grasos monoinsaturados":"27.00"," grasos poliinsaturados":"62.00"}}
+,
+{"Nº":"153","Alimento":"Aceite de girasol Natura","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"9.90"," grasos monoinsaturados":"24.80"," grasos poliinsaturados":"60.90"}}
+,
+{"Nº":"154","Alimento":"Aceite de maiz Arcor","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"14.40"," grasos monoinsaturados":"33.60"," grasos poliinsaturados":"47.70"}}
+,
+{"Nº":"155","Alimento":"Aceite de maiz Cocinero","Género - especie - variedad":"Oil","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"16.00"," grasos monoinsaturados":"37.80"," grasos poliinsaturados":"46.60"}}
+,
+{"Nº":"156","Alimento":"Aceite de maiz Mazzola","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"15.20"," grasos monoinsaturados":"31.80"," grasos poliinsaturados":"48.70"}}
+,
+{"Nº":"157","Alimento":"Aceite de oliva Cocinero","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"17.00"," grasos monoinsaturados":"71.10"," grasos poliinsaturados":"12.40"}}
+,
+{"Nº":"158","Alimento":"Aceite de uva Cocinero","Género - especie - variedad":"","field4":"","Energía":"900","Agua":"...","Grasa Total":"100.0","Ac":{" grasos saturados":"11.00"," grasos monoinsaturados":"23.60"," grasos poliinsaturados":"65.60"}}
+,
+{"Nº":"160","Alimento":"Grasa Vacuna","Género - especie - variedad":"","field4":"","Energía":"899","Agua":"0.1","Grasa Total":"99.9","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""}}
+,
+{"Nº":"159","Alimento":"Grasa de cerdo","Género - especie - variedad":"","field4":"","Energía":"898","Agua":"0.1","Grasa Total":"99.8","Ac":{" grasos saturados":""," grasos monoinsaturados":""," grasos poliinsaturados":""}}
+,
+{"Nº":"162","Alimento":"Margarina 100% vegetal Delicia","Género - especie - variedad":"","field4":"","Energía":"747","Agua":"16.0","Grasa Total":"83.0","Ac":{" grasos saturados":"20.30"," grasos monoinsaturados":"49.80"," grasos poliinsaturados":"12.90"}}
+,
+{"Nº":"161","Alimento":"Margarina 100% vegetal Manty (en pote y en pan)","Género - especie - variedad":"","field4":"","Energía":"747","Agua":"16.0","Grasa Total":"83.0","Ac":{" grasos saturados":"14.10"," grasos monoinsaturados":"41.50"," grasos poliinsaturados":"27.40"}}
+,
+{"Nº":"163","Alimento":"Margarina reducida en calorias Manty liviana","Género - especie - variedad":"","field4":"","Energía":"504","Agua":"42.0","Grasa Total":"56.0","Ac":{" grasos saturados":"13.50"," grasos monoinsaturados":"33.00"," grasos poliinsaturados":"9.50"}}
+
+]

@@ -1,0 +1,178 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"kcal","Agua":"g","Proteínas":"g","Grasa Total":"g","Carbohidratos totales":"g","Cenizas":"g","Sodio":"mg","Potasio":"mg","Calcio":"mg","Fósforo":"mg","Hierro":"mg","Zinc":"mg","Tiamina":"mg","Rivoflavina":"mg","Niacina":"mg","Vitamina C":"mg"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"2*0","Agua":"1*1","Proteínas":"3*1","Grasa Total":"4*1","Carbohidratos totales":"6*1","Cenizas":"5*2","Sodio":"13*0","Potasio":"14*0","Calcio":"15*0","Fósforo":"16*0","Hierro":"17*2","Zinc":"18*1","Tiamina":"21*3","Rivoflavina":"22*3","Niacina":"23*2","Vitamina C":"24*1"}
+,
+{"Nº":"","Alimento":"Cerdo","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"218","Alimento":"Cerdo, chorizo, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"454","Agua":"39.8","Proteínas":"13.0","Grasa Total":"44.2","Carbohidratos totales":"1.1","Cenizas":"1.90","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.107","Rivoflavina":"0.162","Niacina":"2.70","Vitamina C":"2.6"}
+,
+{"Nº":"213","Alimento":"Cerdo, costilla flaca, cruda","Género - especie - variedad":"","field4":"","Energía":"250","Agua":"60.7","Proteínas":"19.9","Grasa Total":"18.9","Carbohidratos totales":"...","Cenizas":"0.80","Sodio":"99","Potasio":"380","Calcio":"2","Fósforo":"233","Hierro":"1.39","Zinc":"","Tiamina":"0.584","Rivoflavina":"0.089","Niacina":"11.60","Vitamina C":""}
+,
+{"Nº":"214","Alimento":"Cerdo, costilla, a la parrilla","Género - especie - variedad":"","field4":"","Energía":"320","Agua":"50.0","Proteínas":"25.2","Grasa Total":"24.3","Carbohidratos totales":"...","Cenizas":"0.50","Sodio":"106","Potasio":"359","Calcio":"6","Fósforo":"209","Hierro":"1.16","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"216","Alimento":"Cerdo, jamón cocido","Género - especie - variedad":"","field4":"","Energía":"211","Agua":"60.4","Proteínas":"20.3","Grasa Total":"14.4","Carbohidratos totales":"...","Cenizas":"4.90","Sodio":"1900","Potasio":"107","Calcio":"15","Fósforo":"143","Hierro":"7.45","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"215","Alimento":"Cerdo, jamón crudo","Género - especie - variedad":"","field4":"","Energía":"473","Agua":"28.9","Proteínas":"18.0","Grasa Total":"44.6","Carbohidratos totales":"...","Cenizas":"8.50","Sodio":"2940","Potasio":"219","Calcio":"11","Fósforo":"152","Hierro":"4.02","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"217","Alimento":"Cerdo, panceta","Género - especie - variedad":"","field4":"","Energía":"670","Agua":"14.3","Proteínas":"8.3","Grasa Total":"70.8","Carbohidratos totales":"...","Cenizas":"6.60","Sodio":"1780","Potasio":"17","Calcio":"37","Fósforo":"38","Hierro":"1.27","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Cordero","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"219","Alimento":"Cordero, carne de la paleta, crudo","Género - especie - variedad":"","field4":"","Energía":"99","Agua":"77.0","Proteínas":"18.7","Grasa Total":"2.7","Carbohidratos totales":"...","Cenizas":"1.60","Sodio":"97","Potasio":"361","Calcio":"13","Fósforo":"170","Hierro":"1.69","Zinc":"","Tiamina":"0.115","Rivoflavina":"0.111","Niacina":"10.60","Vitamina C":""}
+,
+{"Nº":"220","Alimento":"Cordero, carne de la paleta, flaca, a la parrilla","Género - especie - variedad":"","field4":"","Energía":"182","Agua":"62.0","Proteínas":"28.0","Grasa Total":"7.8","Carbohidratos totales":"...","Cenizas":"2.20","Sodio":"122","Potasio":"446","Calcio":"17","Fósforo":"242","Hierro":"5.65","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Pollo","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"224","Alimento":"Pollo, asado a la parrilla","Género - especie - variedad":"","field4":"","Energía":"168","Agua":"63.8","Proteínas":"29.8","Grasa Total":"5.4","Carbohidratos totales":"...","Cenizas":"1.00","Sodio":"","Potasio":"333","Calcio":"11","Fósforo":"249","Hierro":"1.97","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"223","Alimento":"Pollo, asado al horno","Género - especie - variedad":"","field4":"","Energía":"162","Agua":"64.4","Proteínas":"28.4","Grasa Total":"5.4","Carbohidratos totales":"...","Cenizas":"1.80","Sodio":"129","Potasio":"327","Calcio":"12","Fósforo":"193","Hierro":"3.34","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"221","Alimento":"Pollo, carne-pellejo-menudos, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"88","Agua":"80.0","Proteínas":"16.3","Grasa Total":"2.5","Carbohidratos totales":"...","Cenizas":"1.20","Sodio":"119","Potasio":"292","Calcio":"2","Fósforo":"200","Hierro":"5.04","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"222","Alimento":"Pollo, hervido","Género - especie - variedad":"","field4":"","Energía":"198","Agua":"63.0","Proteínas":"23.1","Grasa Total":"11.7","Carbohidratos totales":"...","Cenizas":"2.20","Sodio":"110","Potasio":"363","Calcio":"2","Fósforo":"158","Hierro":"1.71","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Rana","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"225","Alimento":"Rana, carne de la pata, fresca, cruda","Género - especie - variedad":"","field4":"","Energía":"64","Agua":"83.7","Proteínas":"15.5","Grasa Total":"0.2","Carbohidratos totales":"...","Cenizas":"0.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Vacuno","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"226","Alimento":"Vacuno, asado, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"170","Agua":"69.5","Proteínas":"18.4","Grasa Total":"10.7","Carbohidratos totales":"...","Cenizas":"1.40","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"503","Alimento":"Vacuno, bife angosto c/c de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"190","Agua":"67.0","Proteínas":"21.0","Grasa Total":"12.0","Carbohidratos totales":"0.0","Cenizas":"","Sodio":"42","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"227","Alimento":"Vacuno, bife, a la parrilla","Género - especie - variedad":"","field4":"","Energía":"189","Agua":"63.9","Proteínas":"24.6","Grasa Total":"10.1","Carbohidratos totales":"...","Cenizas":"1.40","Sodio":"97","Potasio":"367","Calcio":"4","Fósforo":"238","Hierro":"3.52","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"504","Alimento":"Vacuno, bola de lomo de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"114","Agua":"74.3","Proteínas":"22.0","Grasa Total":"3.2","Carbohidratos totales":"0.0","Cenizas":"1.10","Sodio":"44","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"505","Alimento":"Vacuno, brazuelo de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"120","Agua":"73.8","Proteínas":"21.0","Grasa Total":"3.9","Carbohidratos totales":"0.0","Cenizas":"0.97","Sodio":"56","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"228","Alimento":"Vacuno, caracú (médula de hueso largo), crudo","Género - especie - variedad":"","field4":"","Energía":"785","Agua":"...","Proteínas":"0.5","Grasa Total":"87.0","Carbohidratos totales":"...","Cenizas":"12.50","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"506","Alimento":"Vacuno, colita de cuadril de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"143","Agua":"71.6","Proteínas":"21.0","Grasa Total":"6.7","Carbohidratos totales":"0.0","Cenizas":"1.00","Sodio":"36","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"507","Alimento":"Vacuno, corazón de cuadril de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"116","Agua":"73.7","Proteínas":"22.0","Grasa Total":"2.6","Carbohidratos totales":"0.0","Cenizas":"1.00","Sodio":"39","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"229","Alimento":"Vacuno, cuadril y bife angosto flaco, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"111","Agua":"74.0","Proteínas":"21.0","Grasa Total":"3.0","Carbohidratos totales":"...","Cenizas":"2.00","Sodio":"47","Potasio":"368","Calcio":"2","Fósforo":"234","Hierro":"3.18","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"230","Alimento":"Vacuno, en conserva, enlatado","Género - especie - variedad":"","field4":"","Energía":"224","Agua":"59.5","Proteínas":"23.7","Grasa Total":"14.4","Carbohidratos totales":"...","Cenizas":"2.40","Sodio":"895","Potasio":"148","Calcio":"14","Fósforo":"145","Hierro":"13.45","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"554","Alimento":"Vacuno, hamburguesas cocidas","Género - especie - variedad":"","field4":"","Energía":"248","Agua":"59.6","Proteínas":"20.5","Grasa Total":"18.4","Carbohidratos totales":"","Cenizas":"2.60","Sodio":"834","Potasio":"322","Calcio":"9","Fósforo":"","Hierro":"2.40","Zinc":"5.0","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"553","Alimento":"Vacuno, hamburguesas crudas","Género - especie - variedad":"","field4":"","Energía":"218","Agua":"63.9","Proteínas":"17.3","Grasa Total":"16.5","Carbohidratos totales":"","Cenizas":"2.62","Sodio":"703","Potasio":"278","Calcio":"7","Fósforo":"","Hierro":"1.79","Zinc":"3.7","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"556","Alimento":"Vacuno, hamburguesas light cocidas","Género - especie - variedad":"","field4":"","Energía":"199","Agua":"62.8","Proteínas":"21.0","Grasa Total":"12.8","Carbohidratos totales":"","Cenizas":"2.69","Sodio":"862","Potasio":"342","Calcio":"12","Fósforo":"","Hierro":"2.66","Zinc":"5.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"555","Alimento":"Vacuno, hamburguesas light crudas","Género - especie - variedad":"","field4":"","Energía":"175","Agua":"68.2","Proteínas":"18.4","Grasa Total":"11.3","Carbohidratos totales":"","Cenizas":"2.39","Sodio":"754","Potasio":"320","Calcio":"11","Fósforo":"","Hierro":"2.01","Zinc":"4.3","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"231","Alimento":"Vacuno, hígado, crudo","Género - especie - variedad":"","field4":"","Energía":"132","Agua":"69.7","Proteínas":"19.7","Grasa Total":"3.2","Carbohidratos totales":"6.0","Cenizas":"1.40","Sodio":"86","Potasio":"320","Calcio":"4","Fósforo":"376","Hierro":"9.95","Zinc":"","Tiamina":"0.187","Rivoflavina":"2.300","Niacina":"12.70","Vitamina C":""}
+,
+{"Nº":"232","Alimento":"Vacuno, jugo de carne","Género - especie - variedad":"","field4":"","Energía":"33","Agua":"91.4","Proteínas":"6.8","Grasa Total":"0.6","Carbohidratos totales":"...","Cenizas":"1.20","Sodio":"247","Potasio":"618","Calcio":"2","Fósforo":"252","Hierro":"1.08","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"233","Alimento":"Vacuno, lomo, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"116","Agua":"71.6","Proteínas":"20.0","Grasa Total":"4.0","Carbohidratos totales":"...","Cenizas":"2.10","Sodio":"79","Potasio":"369","Calcio":"2","Fósforo":"188","Hierro":"2.73","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"510","Alimento":"Vacuno, nalga de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"106","Agua":"74.5","Proteínas":"22.0","Grasa Total":"1.7","Carbohidratos totales":"0.0","Cenizas":"1.20","Sodio":"38","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"234","Alimento":"Vacuno, nalga, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"97","Agua":"75.3","Proteínas":"21.2","Grasa Total":"1.4","Carbohidratos totales":"...","Cenizas":"2.10","Sodio":"63","Potasio":"399","Calcio":"3","Fósforo":"186","Hierro":"3.46","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"511","Alimento":"Vacuno, paleta de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"125","Agua":"74.7","Proteínas":"19.0","Grasa Total":"5.5","Carbohidratos totales":"0.0","Cenizas":"1.00","Sodio":"63","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"512","Alimento":"Vacuno, paletín o marucha de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"132","Agua":"73.6","Proteínas":"20.0","Grasa Total":"6.1","Carbohidratos totales":"0.0","Cenizas":"1.00","Sodio":"80","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"513","Alimento":"Vacuno, palomita de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"116","Agua":"74.4","Proteínas":"20.0","Grasa Total":"3.7","Carbohidratos totales":"0.0","Cenizas":"1.10","Sodio":"61","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"235","Alimento":"Vacuno, pasta de hígado","Género - especie - variedad":"","field4":"","Energía":"335","Agua":"52.6","Proteínas":"14.0","Grasa Total":"31.0","Carbohidratos totales":"...","Cenizas":"2.40","Sodio":"627","Potasio":"209","Calcio":"25","Fósforo":"317","Hierro":"7.60","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"514","Alimento":"Vacuno, peceto de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"125","Agua":"74.1","Proteínas":"23.0","Grasa Total":"1.9","Carbohidratos totales":"0.0","Cenizas":"1.10","Sodio":"50","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"515","Alimento":"Vacuno, pecho de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"139","Agua":"72.1","Proteínas":"20.0","Grasa Total":"6.5","Carbohidratos totales":"0.0","Cenizas":"1.29","Sodio":"170","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"236","Alimento":"Vacuno, riñon, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"137","Agua":"74.9","Proteínas":"15.0","Grasa Total":"8.1","Carbohidratos totales":"0.9","Cenizas":"1.10","Sodio":"245","Potasio":"231","Calcio":"14","Fósforo":"262","Hierro":"15.00","Zinc":"","Tiamina":"0.240","Rivoflavina":"1.700","Niacina":"10.50","Vitamina C":""}
+,
+{"Nº":"521","Alimento":"Vacuno, tapa de cuadril de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"211","Agua":"64.4","Proteínas":"20.0","Grasa Total":"15.0","Carbohidratos totales":"0.0","Cenizas":"1.03","Sodio":"53","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"237","Alimento":"Vacuno, ternera, costilla flaca, a la parrilla","Género - especie - variedad":"","field4":"","Energía":"139","Agua":"67.8","Proteínas":"27.2","Grasa Total":"3.4","Carbohidratos totales":"...","Cenizas":"1.60","Sodio":"74","Potasio":"406","Calcio":"4","Fósforo":"224","Hierro":"4.09","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"238","Alimento":"Vacuno, ternera, costilla flaca, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"95","Agua":"76.3","Proteínas":"20.0","Grasa Total":"1.7","Carbohidratos totales":"...","Cenizas":"2.00","Sodio":"88","Potasio":"325","Calcio":"5","Fósforo":"201","Hierro":"2.04","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"516","Alimento":"Vacuno, tortuguita de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"154","Agua":"70.1","Proteínas":"22.0","Grasa Total":"7.6","Carbohidratos totales":"0.0","Cenizas":"0.90","Sodio":"69","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"517","Alimento":"Vacuno, vacío de novillito, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"174","Agua":"68.9","Proteínas":"20.0","Grasa Total":"11.0","Carbohidratos totales":"0.0","Cenizas":"0.90","Sodio":"53","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"239","Alimento":"Vacuno, vacío flaco, fresco, crudo","Género - especie - variedad":"","field4":"","Energía":"171","Agua":"66.5","Proteínas":"23.8","Grasa Total":"8.4","Carbohidratos totales":"...","Cenizas":"1.30","Sodio":"70","Potasio":"359","Calcio":"2","Fósforo":"213","Hierro":"3.15","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"240","Alimento":"Vacuno, vacío, a la parrilla","Género - especie - variedad":"","field4":"","Energía":"258","Agua":"55.6","Proteínas":"25.6","Grasa Total":"17.3","Carbohidratos totales":"...","Cenizas":"1.50","Sodio":"91","Potasio":"381","Calcio":"3","Fósforo":"204","Hierro":"4.12","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"241","Alimento":"Vacuno, vacío, al horno","Género - especie - variedad":"","field4":"","Energía":"241","Agua":"56.1","Proteínas":"28.1","Grasa Total":"14.3","Carbohidratos totales":"...","Cenizas":"1.50","Sodio":"63","Potasio":"339","Calcio":"3","Fósforo":"234","Hierro":"4.37","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Vacuno, raza caribú","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"242","Alimento":"Bife, cocido","Género - especie - variedad":"","field4":"","Energía":"233","Agua":"52.7","Proteínas":"36.0","Grasa Total":"9.9","Carbohidratos totales":"0.1","Cenizas":"1.35","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"243","Alimento":"Bife, crudo","Género - especie - variedad":"","field4":"","Energía":"120","Agua":"71.6","Proteínas":"20.7","Grasa Total":"2.2","Carbohidratos totales":"4.3","Cenizas":"1.18","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"244","Alimento":"Nalga, cocida","Género - especie - variedad":"","field4":"","Energía":"197","Agua":"55.3","Proteínas":"38.6","Grasa Total":"4.4","Carbohidratos totales":"0.7","Cenizas":"0.99","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"245","Alimento":"Nalga, cruda","Género - especie - variedad":"","field4":"","Energía":"98","Agua":"74.4","Proteínas":"19.5","Grasa Total":"","Carbohidratos totales":"4.9","Cenizas":"1.14","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"246","Alimento":"Paleta, cocida","Género - especie - variedad":"","field4":"","Energía":"207","Agua":"54.6","Proteínas":"37.0","Grasa Total":"6.4","Carbohidratos totales":"0.4","Cenizas":"1.56","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"247","Alimento":"Paleta, cruda","Género - especie - variedad":"","field4":"","Energía":"107","Agua":"76.4","Proteínas":"19.0","Grasa Total":"3.4","Carbohidratos totales":"0.2","Cenizas":"1.02","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"248","Alimento":"Vacío, cocido","Género - especie - variedad":"","field4":"","Energía":"231","Agua":"48.9","Proteínas":"41.1","Grasa Total":"6.8","Carbohidratos totales":"1.2","Cenizas":"1.86","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"249","Alimento":"Vacío, crudo","Género - especie - variedad":"","field4":"","Energía":"105","Agua":"75.3","Proteínas":"18.4","Grasa Total":"2.2","Carbohidratos totales":"3.1","Cenizas":"1.06","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Vacuno, raza criolla","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"250","Alimento":"Bife, cocido","Género - especie - variedad":"","field4":"","Energía":"236","Agua":"51.8","Proteínas":"36.5","Grasa Total":"9.8","Carbohidratos totales":"0.3","Cenizas":"1.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"251","Alimento":"Bife, crudo","Género - especie - variedad":"","field4":"","Energía":"120","Agua":"72.2","Proteínas":"21.1","Grasa Total":"2.5","Carbohidratos totales":"3.2","Cenizas":"1.07","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"252","Alimento":"Nalga, cocida","Género - especie - variedad":"","field4":"","Energía":"177","Agua":"59.6","Proteínas":"35.1","Grasa Total":"3.8","Carbohidratos totales":"0.6","Cenizas":"0.87","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"253","Alimento":"Nalga, cruda","Género - especie - variedad":"","field4":"","Energía":"103","Agua":"74.4","Proteínas":"21.0","Grasa Total":"1.1","Carbohidratos totales":"2.5","Cenizas":"1.09","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"254","Alimento":"Paleta, cocida","Género - especie - variedad":"","field4":"","Energía":"192","Agua":"56.8","Proteínas":"35.5","Grasa Total":"5.2","Carbohidratos totales":"0.9","Cenizas":"1.58","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"255","Alimento":"Paleta, cruda","Género - especie - variedad":"","field4":"","Energía":"106","Agua":"75.8","Proteínas":"18.4","Grasa Total":"2.7","Carbohidratos totales":"2.0","Cenizas":"1.02","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"256","Alimento":"Vacío, cocido","Género - especie - variedad":"","field4":"","Energía":"203","Agua":"53.9","Proteínas":"38.4","Grasa Total":"5.0","Carbohidratos totales":"1.2","Cenizas":"1.54","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"257","Alimento":"Vacío, crudo","Género - especie - variedad":"","field4":"","Energía":"107","Agua":"75.3","Proteínas":"18.4","Grasa Total":"2.5","Carbohidratos totales":"2.7","Cenizas":"1.03","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Fiambres","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"522","Alimento":"Jamon cocido \"Villafranca Novissimo\".El Bierzo. Reducido en colesterol","Género - especie - variedad":"","field4":"","Energía":"98","Agua":"74.3","Proteínas":"18.0","Grasa Total":"2.5","Carbohidratos totales":"","Cenizas":"3.10","Sodio":"486","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"523","Alimento":"Lomo ahumado de cerdo cocido \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Energía":"95","Agua":"73.6","Proteínas":"19.0","Grasa Total":"2.0","Carbohidratos totales":"","Cenizas":"4.30","Sodio":"902","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"524","Alimento":"Mortadela\" Villafranca Novissimo\". El Bierzo - reducida en grasa y en sodio","Género - especie - variedad":"","field4":"","Energía":"139","Agua":"66.7","Proteínas":"16.0","Grasa Total":"5.7","Carbohidratos totales":"","Cenizas":"4.00","Sodio":"655","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"525","Alimento":"Pastron ahumado \"Villafranca Novissimo\". El Bierzo. Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Energía":"79","Agua":"75.5","Proteínas":"16.0","Grasa Total":"0.4","Carbohidratos totales":"","Cenizas":"3.40","Sodio":"658","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"526","Alimento":"Salame \"Villafranca Novissimo\".El Bierzo.Reducido en sodio y en colesterol","Género - especie - variedad":"","field4":"","Energía":"134","Agua":"67.6","Proteínas":"22.0","Grasa Total":"4.6","Carbohidratos totales":"","Cenizas":"3.90","Sodio":"740","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"","Alimento":"Vizcacha","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"557","Alimento":"Carne de vizcacha","Género - especie - variedad":"Lagostomus maximus maximus Blainv","field4":"","Energía":"46","Agua":"73.0","Proteínas":"23.9","Grasa Total":"3.7","Carbohidratos totales":"7.7","Cenizas":"3.61","Sodio":"","Potasio":"260","Calcio":"69","Fósforo":"29","Hierro":"2.57","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"9.9"}
+
+]

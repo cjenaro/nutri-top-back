@@ -1,0 +1,80 @@
+[
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"kcal","Agua":"g","Proteínas":"g","Grasa Total":"g","Carbohidratos totales":"g","Cenizas":"g","Sodio":"mg","Potasio":"mg","Calcio":"mg","Fósforo":"mg","Hierro":"mg","Zinc":"mg","Tiamina":"mg","Rivoflavina":"mg","Niacina":"mg","Vitamina C":"mg"}
+,
+{"Nº":"","Alimento":"","Género - especie - variedad":"","field4":"","Energía":"2*0","Agua":"1*1","Proteínas":"3*1","Grasa Total":"4*1","Carbohidratos totales":"6*1","Cenizas":"5*2","Sodio":"13*0","Potasio":"14*0","Calcio":"15*0","Fósforo":"16*0","Hierro":"17*2","Zinc":"18*1","Tiamina":"21*3","Rivoflavina":"22*3","Niacina":"23*2","Vitamina C":"24*1"}
+,
+{"Nº":"","Alimento":"Frutas y derivados","Género - especie - variedad":"","field4":"","Energía":"","Agua":"","Proteínas":"","Grasa Total":"","Carbohidratos totales":"","Cenizas":"","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"496","Alimento":"Aceituna de monte","Género - especie - variedad":"Zyziphus sativa","field4":"","Energía":"93","Agua":"77.7","Proteínas":"1.6","Grasa Total":"0.4","Carbohidratos totales":"19.4","Cenizas":"0.85","Sodio":"","Potasio":"192","Calcio":"33","Fósforo":"29","Hierro":"0.59","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"10.0"}
+,
+{"Nº":"119","Alimento":"Aceituna verde, pulpa, encurtida","Género - especie - variedad":"Olea europaea","field4":"","Energía":"144","Agua":"75.2","Proteínas":"1.5","Grasa Total":"13.5","Carbohidratos totales":"4.0","Cenizas":"5.80","Sodio":"2250","Potasio":"91","Calcio":"61","Fósforo":"17","Hierro":"1.03","Zinc":"","Tiamina":"0.025","Rivoflavina":"0.137","Niacina":"2.60","Vitamina C":"1.6"}
+,
+{"Nº":"121","Alimento":"Ananá enlatado, contenido envase","Género - especie - variedad":"","field4":"","Energía":"87","Agua":"78.0","Proteínas":"0.4","Grasa Total":"0.1","Carbohidratos totales":"21.1","Cenizas":"0.40","Sodio":"1","Potasio":"57","Calcio":"13","Fósforo":"5","Hierro":"1.70","Zinc":"","Tiamina":"0.080","Rivoflavina":"0.081","Niacina":"0.60","Vitamina C":"12.8"}
+,
+{"Nº":"120","Alimento":"Ananá, pulpa, fresco","Género - especie - variedad":"Ananassa sativa L.","field4":"","Energía":"58","Agua":"85.3","Proteínas":"0.4","Grasa Total":"0.2","Carbohidratos totales":"13.7","Cenizas":"0.40","Sodio":"2","Potasio":"247","Calcio":"12","Fósforo":"8","Hierro":"0.42","Zinc":"","Tiamina":"0.066","Rivoflavina":"0.078","Niacina":"1.00","Vitamina C":"40.3"}
+,
+{"Nº":"122","Alimento":"Banana, pulpa, fresca","Género - especie - variedad":"Musa sapientum L.","field4":"","Energía":"99","Agua":"74.8","Proteínas":"1.2","Grasa Total":"0.2","Carbohidratos totales":"23.0","Cenizas":"0.80","Sodio":"1","Potasio":"348","Calcio":"7","Fósforo":"28","Hierro":"0.41","Zinc":"","Tiamina":"0.061","Rivoflavina":"0.087","Niacina":"1.20","Vitamina C":"6.1"}
+,
+{"Nº":"123","Alimento":"Cereza, pulpa, fresca","Género - especie - variedad":"Prunus avium L","field4":"","Energía":"68","Agua":"83.0","Proteínas":"1.1","Grasa Total":"0.5","Carbohidratos totales":"14.8","Cenizas":"0.60","Sodio":"3","Potasio":"275","Calcio":"16","Fósforo":"17","Hierro":"0.38","Zinc":"","Tiamina":"0.002","Rivoflavina":"0.035","Niacina":"0.80","Vitamina C":"5.6"}
+,
+{"Nº":"125","Alimento":"Ciruela, pasa, cruda","Género - especie - variedad":"Prunus domestica L","field4":"","Energía":"255","Agua":"32.9","Proteínas":"1.9","Grasa Total":"0.1","Carbohidratos totales":"61.6","Cenizas":"3.50","Sodio":"21","Potasio":"846","Calcio":"46","Fósforo":"92","Hierro":"1.81","Zinc":"","Tiamina":"0.172","Rivoflavina":"0.569","Niacina":"2.70","Vitamina C":"7.4"}
+,
+{"Nº":"126","Alimento":"Ciruela, pasa, hervida","Género - especie - variedad":"Prunus domestica L","field4":"","Energía":"165","Agua":"56.4","Proteínas":"1.0","Grasa Total":"0.1","Carbohidratos totales":"40.1","Cenizas":"2.40","Sodio":"16","Potasio":"534","Calcio":"31","Fósforo":"64","Hierro":"3.25","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"124","Alimento":"Ciruela, pulpa, fresca","Género - especie - variedad":"Prunus domestica L","field4":"","Energía":"56","Agua":"85.7","Proteínas":"0.7","Grasa Total":"0.2","Carbohidratos totales":"12.9","Cenizas":"0.50","Sodio":"2","Potasio":"261","Calcio":"24","Fósforo":"16","Hierro":"0.41","Zinc":"","Tiamina":"0.026","Rivoflavina":"0.059","Niacina":"0.80","Vitamina C":"4.2"}
+,
+{"Nº":"127","Alimento":"Coco, pulpa, fresco, crudo","Género - especie - variedad":"Cocos nucifera","field4":"","Energía":"382","Agua":"46.9","Proteínas":"3.4","Grasa Total":"34.7","Carbohidratos totales":"14.0","Cenizas":"1.00","Sodio":"17","Potasio":"436","Calcio":"13","Fósforo":"94","Hierro":"2.08","Zinc":"","Tiamina":"0.173","Rivoflavina":"...","Niacina":"0.10","Vitamina C":""}
+,
+{"Nº":"128","Alimento":"Damasco, pulpa, fresco, crudo","Género - especie - variedad":"Prunus Armeniaca L.","field4":"","Energía":"57","Agua":"85.4","Proteínas":"1.0","Grasa Total":"0.1","Carbohidratos totales":"12.9","Cenizas":"0.60","Sodio":"1","Potasio":"320","Calcio":"17","Fósforo":"21","Hierro":"0.37","Zinc":"","Tiamina":"0.015","Rivoflavina":"0.066","Niacina":"1.20","Vitamina C":"3.1"}
+,
+{"Nº":"542","Alimento":"Doca","Género - especie - variedad":"Morrenia odorata","field4":"","Energía":"49","Agua":"85.1","Proteínas":"1.6","Grasa Total":"1.0","Carbohidratos totales":"11.5","Cenizas":"0.80","Sodio":"","Potasio":"312","Calcio":"41","Fósforo":"35","Hierro":"0.60","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"41.6"}
+,
+{"Nº":"131","Alimento":"Durazno orejón, pulpa y piel, hervido","Género - especie - variedad":"Prunus persica L.","field4":"","Energía":"40","Agua":"89.3","Proteínas":"2.5","Grasa Total":"...","Carbohidratos totales":"7.5","Cenizas":"0.70","Sodio":"14","Potasio":"276","Calcio":"20","Fósforo":"43","Hierro":"2.84","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"130","Alimento":"Durazno, pulpa, envasado al natural","Género - especie - variedad":"Prunus persica L.","field4":"","Energía":"75","Agua":"80.9","Proteínas":"0.4","Grasa Total":"0.1","Carbohidratos totales":"18.2","Cenizas":"0.40","Sodio":"1","Potasio":"151","Calcio":"4","Fósforo":"10","Hierro":"1.93","Zinc":"","Tiamina":"0.021","Rivoflavina":"0.045","Niacina":"1.00","Vitamina C":"3.6"}
+,
+{"Nº":"129","Alimento":"Durazno, pulpa, fresco, crudo","Género - especie - variedad":"Prunus persica L.","field4":"","Energía":"51","Agua":"86.9","Proteínas":"0.5","Grasa Total":"0.1","Carbohidratos totales":"12.0","Cenizas":"0.50","Sodio":"3","Potasio":"259","Calcio":"5","Fósforo":"19","Hierro":"0.38","Zinc":"","Tiamina":"0.020","Rivoflavina":"0.040","Niacina":"0.80","Vitamina C":"6.3"}
+,
+{"Nº":"132","Alimento":"Frutilla pulpa, fresca, cruda","Género - especie - variedad":"Fragarta h chiloensis Duch Var, ananassa B.","field4":"","Energía":"41","Agua":"90.0","Proteínas":"0.8","Grasa Total":"0.6","Carbohidratos totales":"8.1","Cenizas":"0.50","Sodio":"2","Potasio":"161","Calcio":"22","Fósforo":"23","Hierro":"0.71","Zinc":"","Tiamina":"0.041","Rivoflavina":"0.051","Niacina":"0.40","Vitamina C":"88.7"}
+,
+{"Nº":"133","Alimento":"Granada, pulpa, fresca","Género - especie - variedad":"Punica granatium L.","field4":"","Energía":"75","Agua":"81.0","Proteínas":"0.6","Grasa Total":"0.2","Carbohidratos totales":"17.7","Cenizas":"0.50","Sodio":"85","Potasio":"63","Calcio":"11","Fósforo":"105","Hierro":"0.78","Zinc":"","Tiamina":"0.010","Rivoflavina":"0.030","Niacina":"...","Vitamina C":""}
+,
+{"Nº":"497","Alimento":"Guaraniná, Brumelia obtusifolia","Género - especie - variedad":"Brumelia obtusifolia","field4":"","Energía":"147","Agua":"65.6","Proteínas":"1.6","Grasa Total":"3.2","Carbohidratos totales":"23.7","Cenizas":"0.85","Sodio":"","Potasio":"200","Calcio":"56","Fósforo":"23","Hierro":"1.33","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"16.4"}
+,
+{"Nº":"134","Alimento":"Higo, pulpa, fresca","Género - especie - variedad":"Ficus carica L.","field4":"","Energía":"88","Agua":"78.0","Proteínas":"1.4","Grasa Total":"0.4","Carbohidratos totales":"19.6","Cenizas":"0.60","Sodio":"2","Potasio":"268","Calcio":"34","Fósforo":"32","Hierro":"0.42","Zinc":"","Tiamina":"0.010","Rivoflavina":"0.045","Niacina":"0.70","Vitamina C":"0.6"}
+,
+{"Nº":"135","Alimento":"Kaki, pulpa, fresco","Género - especie - variedad":"Diospyrus Kaki L.","field4":"","Energía":"87","Agua":"78.2","Proteínas":"0.8","Grasa Total":"0.4","Carbohidratos totales":"20.0","Cenizas":"0.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.016","Rivoflavina":"0.001","Niacina":"0.10","Vitamina C":"13.1"}
+,
+{"Nº":"136","Alimento":"Kinoto, pulpa y cáscara, fresco, crudo","Género - especie - variedad":"Fortunella spp.","field4":"","Energía":"73","Agua":"81.3","Proteínas":"0.9","Grasa Total":"0.1","Carbohidratos totales":"17.1","Cenizas":"0.60","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.083","Rivoflavina":"0.096","Niacina":"","Vitamina C":"57.6"}
+,
+{"Nº":"137","Alimento":"Limón, pulpa, fresco","Género - especie - variedad":"Citrus limonia","field4":"","Energía":"44","Agua":"89.3","Proteínas":"0.9","Grasa Total":"0.6","Carbohidratos totales":"8.7","Cenizas":"0.50","Sodio":"6","Potasio":"163","Calcio":"107","Fósforo":"21","Hierro":"0.35","Zinc":"","Tiamina":"0.091","Rivoflavina":"0.012","Niacina":"","Vitamina C":"62.6"}
+,
+{"Nº":"139","Alimento":"Manzana, hervida","Género - especie - variedad":"Malus sylvestria","field4":"","Energía":"26","Agua":"92.0","Proteínas":"0.5","Grasa Total":"...","Carbohidratos totales":"6.0","Cenizas":"1.50","Sodio":"4","Potasio":"58","Calcio":"3","Fósforo":"5","Hierro":"0.64","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":""}
+,
+{"Nº":"138","Alimento":"Manzana, pulpa, fresca, cruda","Género - especie - variedad":"Malus sylvestria","field4":"","Energía":"64","Agua":"84.1","Proteínas":"0.3","Grasa Total":"0.4","Carbohidratos totales":"14.9","Cenizas":"0.30","Sodio":"5","Potasio":"122","Calcio":"4","Fósforo":"9","Hierro":"0.50","Zinc":"","Tiamina":"0.041","Rivoflavina":"0.047","Niacina":"0.20","Vitamina C":"2.8"}
+,
+{"Nº":"544","Alimento":"Mburucuyá maduro","Género - especie - variedad":"Passiflora sp.","field4":"","Energía":"84","Agua":"68.9","Proteínas":"4.7","Grasa Total":"1.7","Carbohidratos totales":"23.4","Cenizas":"1.38","Sodio":"","Potasio":"253","Calcio":"14","Fósforo":"110","Hierro":"1.30","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"14.6"}
+,
+{"Nº":"543","Alimento":"Mburucuyá verde","Género - especie - variedad":"Passiflora sp.","field4":"","Energía":"59","Agua":"78.6","Proteínas":"3.2","Grasa Total":"1.6","Carbohidratos totales":"15.7","Cenizas":"0.88","Sodio":"","Potasio":"241","Calcio":"15","Fósforo":"52","Hierro":"5.00","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"26.4"}
+,
+{"Nº":"140","Alimento":"Melón, pulpa, fresco","Género - especie - variedad":"Cucumis melo L.","field4":"","Energía":"28","Agua":"92.7","Proteínas":"0.6","Grasa Total":"0.2","Carbohidratos totales":"5.9","Cenizas":"0.60","Sodio":"17","Potasio":"275","Calcio":"17","Fósforo":"18","Hierro":"0.52","Zinc":"","Tiamina":"0.042","Rivoflavina":"0.031","Niacina":"0.30","Vitamina C":"14.8"}
+,
+{"Nº":"141","Alimento":"Membrillo, pulpa, fresco, crudo","Género - especie - variedad":"Cydonia oblonga L.","field4":"","Energía":"58","Agua":"85.3","Proteínas":"0.3","Grasa Total":"0.1","Carbohidratos totales":"13.9","Cenizas":"0.40","Sodio":"3","Potasio":"203","Calcio":"14","Fósforo":"19","Hierro":"0.32","Zinc":"","Tiamina":"0.032","Rivoflavina":"0.054","Niacina":"0.90","Vitamina C":"3.4"}
+,
+{"Nº":"142","Alimento":"Mora, fresca","Género - especie - variedad":"Morus spp.","field4":"","Energía":"69","Agua":"82.8","Proteínas":"1.2","Grasa Total":"0.6","Carbohidratos totales":"14.6","Cenizas":"0.80","Sodio":"2","Potasio":"257","Calcio":"36","Fósforo":"48","Hierro":"1.57","Zinc":"","Tiamina":"0.053","Rivoflavina":"0.079","Niacina":"1.10","Vitamina C":"2.4"}
+,
+{"Nº":"143","Alimento":"Palta, pulpa, fresca","Género - especie - variedad":"Persea gratissima","field4":"","Energía":"258","Agua":"65.4","Proteínas":"1.7","Grasa Total":"26.4","Carbohidratos totales":"3.3","Cenizas":"3.20","Sodio":"16","Potasio":"396","Calcio":"15","Fósforo":"31","Hierro":"0.53","Zinc":"","Tiamina":"0.043","Rivoflavina":"0.140","Niacina":"0.40","Vitamina C":"5.8"}
+,
+{"Nº":"145","Alimento":"Pera, orejón, crudo","Género - especie - variedad":"Pirus comimunis L.","field4":"","Energía":"299","Agua":"24.0","Proteínas":"2.3","Grasa Total":"0.4","Carbohidratos totales":"71.6","Cenizas":"1.70","Sodio":"","Potasio":"","Calcio":"","Fósforo":"","Hierro":"","Zinc":"","Tiamina":"0.061","Rivoflavina":"0.106","Niacina":"1.30","Vitamina C":"9.2"}
+,
+{"Nº":"144","Alimento":"Pera, pulpa, fresca, cruda","Género - especie - variedad":"Pirus comimunis L.","field4":"","Energía":"70","Agua":"82.7","Proteínas":"0.7","Grasa Total":"0.4","Carbohidratos totales":"15.8","Cenizas":"0.40","Sodio":"2","Potasio":"129","Calcio":"8","Fósforo":"10","Hierro":"0.19","Zinc":"","Tiamina":"0.057","Rivoflavina":"0.074","Niacina":"0.20","Vitamina C":"3.0"}
+,
+{"Nº":"146","Alimento":"Pomelo, pulpa, fresco","Género - especie - variedad":"Citrus grandis Osbeck","field4":"","Energía":"26","Agua":"92.9","Proteínas":"0.5","Grasa Total":"...","Carbohidratos totales":"5.9","Cenizas":"0.70","Sodio":"37","Potasio":"147","Calcio":"13","Fósforo":"10","Hierro":"0.21","Zinc":"","Tiamina":"0.104","Rivoflavina":"0.078","Niacina":"...","Vitamina C":"47.8"}
+,
+{"Nº":"147","Alimento":"Sandía, pulpa, fresca, cruda","Género - especie - variedad":"Citrullus vulgaris Schard","field4":"","Energía":"31","Agua":"92.1","Proteínas":"0.5","Grasa Total":"0.2","Carbohidratos totales":"6.9","Cenizas":"0.30","Sodio":"8","Potasio":"73","Calcio":"11","Fósforo":"3","Hierro":"0.23","Zinc":"","Tiamina":"0.015","Rivoflavina":"0.022","Niacina":"","Vitamina C":"9.1"}
+,
+{"Nº":"545","Alimento":"Ubajay","Género - especie - variedad":"Eugenia  myrciantes","field4":"","Energía":"49","Agua":"89.0","Proteínas":"1.1","Grasa Total":"1.6","Carbohidratos totales":"8.1","Cenizas":"0.29","Sodio":"","Potasio":"97","Calcio":"32","Fósforo":"19","Hierro":"0.40","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"75.1"}
+,
+{"Nº":"502","Alimento":"Ñandapirí","Género - especie - variedad":"Eugenia uniflora","field4":"","Energía":"70","Agua":"82.8","Proteínas":"1.7","Grasa Total":"0.7","Carbohidratos totales":"14.3","Cenizas":"0.60","Sodio":"","Potasio":"213","Calcio":"34","Fósforo":"32","Hierro":"0.84","Zinc":"","Tiamina":"","Rivoflavina":"","Niacina":"","Vitamina C":"21.5"}
+
+]
