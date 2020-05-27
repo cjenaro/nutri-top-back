@@ -1,0 +1,44 @@
+[
+{"Alimento":"","Carbohidratos totales":"g","Proteínas":"g","Grasa Total":"g","Energía":"kcal"}
+,
+{"Alimento":"Leche fluida entera","Carbohidratos totales":"5","Proteínas":"3","Grasa Total":"3","Energía":"59"}
+,
+{"Alimento":"Leche fluida parcial, desc.","Carbohidratos totales":"5","Proteínas":"3","Grasa Total":"1.5","Energía":"45"}
+,
+{"Alimento":"Leche en polvo entera","Carbohidratos totales":"35","Proteínas":"28","Grasa Total":"25","Energía":"477"}
+,
+{"Alimento":"Leche en polvo descremada","Carbohidratos totales":"50","Proteínas":"35","Grasa Total":"1","Energía":"349"}
+,
+{"Alimento":"Yogur entero natural","Carbohidratos totales":"6","Proteínas":"4","Grasa Total":"3","Energía":"67"}
+,
+{"Alimento":"Yogur entero saborizado","Carbohidratos totales":"14","Proteínas":"5","Grasa Total":"3","Energía":"103"}
+,
+{"Alimento":"Yogur entero frutado","Carbohidratos totales":"13","Proteínas":"4","Grasa Total":"3","Energía":"95"}
+,
+{"Alimento":"Yogur entero con cereal","Carbohidratos totales":"29","Proteínas":"5","Grasa Total":"3","Energía":"163"}
+,
+{"Alimento":"Yogurt semidescremado saborizado","Carbohidratos totales":"11","Proteínas":"4","Grasa Total":"2","Energía":"78"}
+,
+{"Alimento":"Yogurt semidescremado frutado","Carbohidratos totales":"13","Proteínas":"4","Grasa Total":"1.5","Energía":"82"}
+,
+{"Alimento":"Yogur dietetico descremado c/edulcorante","Carbohidratos totales":"5","Proteínas":"4","Grasa Total":"0","Energía":"36"}
+,
+{"Alimento":"Yogur dietetico descremado c/cereal","Carbohidratos totales":"11","Proteínas":"4","Grasa Total":"0","Energía":"60"}
+,
+{"Alimento":"Quesos (prom. gral.)","Carbohidratos totales":"","Proteínas":"22","Grasa Total":"24","Energía":"304"}
+,
+{"Alimento":"Quesos untables sin grasa","Carbohidratos totales":"4","Proteínas":"14","Grasa Total":"0.5","Energía":"76"}
+,
+{"Alimento":"Quesos untables descremados","Carbohidratos totales":"3","Proteínas":"12","Grasa Total":"4","Energía":"96"}
+,
+{"Alimento":"Quesos untables semidescremados","Carbohidratos totales":"3","Proteínas":"11","Grasa Total":"8","Energía":"128"}
+,
+{"Alimento":"Quesos untables con crema","Carbohidratos totales":"2","Proteínas":"8","Grasa Total":"23","Energía":"247"}
+,
+{"Alimento":"Ricota entera","Carbohidratos totales":"3","Proteínas":"12","Grasa Total":"11","Energía":"159"}
+,
+{"Alimento":"Ricota descremada","Carbohidratos totales":"5","Proteínas":"11","Grasa Total":"8","Energía":"136"}
+,
+{"Alimento":"Quesos maduros descremados","Carbohidratos totales":"1","Proteínas":"26","Grasa Total":"15","Energía":"243"}
+
+]

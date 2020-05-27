@@ -1,0 +1,38 @@
+[
+{"Alimento":"","Carbohidratos totales":"g","Proteínas":"g","Grasa Total":"g","Energía":"kcal"}
+,
+{"Alimento":"Galletitas dulces","Carbohidratos totales":"75","Proteínas":"10","Grasa Total":"15","Energía":"475"}
+,
+{"Alimento":"Galletitas tipo agua","Carbohidratos totales":"70","Proteínas":"10","Grasa Total":"10","Energía":"410"}
+,
+{"Alimento":"Galletitas tipo agua c/bajo tenor graso","Carbohidratos totales":"60","Proteínas":"14","Grasa Total":"3","Energía":"323"}
+,
+{"Alimento":"Azúcar","Carbohidratos totales":"100","Proteínas":"","Grasa Total":"","Energía":"400"}
+,
+{"Alimento":"Dulces (prom. gral)","Carbohidratos totales":"70","Proteínas":"","Grasa Total":"","Energía":"280"}
+,
+{"Alimento":"Dulce de leche","Carbohidratos totales":"50","Proteínas":"7","Grasa Total":"7","Energía":"291"}
+,
+{"Alimento":"Mermelada diet.","Carbohidratos totales":"25","Proteínas":"","Grasa Total":"","Energía":"100"}
+,
+{"Alimento":"Gelatina sin sabor","Carbohidratos totales":"","Proteínas":"12","Grasa Total":"","Energía":"48"}
+,
+{"Alimento":"Gelatina con sabor","Carbohidratos totales":"84","Proteínas":"12","Grasa Total":"","Energía":"348"}
+,
+{"Alimento":"Flan común (polvo)","Carbohidratos totales":"83","Proteínas":"1","Grasa Total":"2","Energía":"354"}
+,
+{"Alimento":"Flan dietético (#)","Carbohidratos totales":"7","Proteínas":"4","Grasa Total":"1","Energía":"53"}
+,
+{"Alimento":"Postres común (polvo)","Carbohidratos totales":"95","Proteínas":"","Grasa Total":"","Energía":"380"}
+,
+{"Alimento":"Postres dietético (#)","Carbohidratos totales":"10","Proteínas":"4","Grasa Total":"4","Energía":"92"}
+,
+{"Alimento":"Jugos cítricos exprimidos","Carbohidratos totales":"9","Proteínas":"","Grasa Total":"","Energía":"36"}
+,
+{"Alimento":"Jugos tipo Cepita","Carbohidratos totales":"14","Proteínas":"1","Grasa Total":"","Energía":"60"}
+,
+{"Alimento":"Jugos concentrados","Carbohidratos totales":"40","Proteínas":"2","Grasa Total":"","Energía":"168"}
+,
+{"Alimento":"Gaseosas","Carbohidratos totales":"10","Proteínas":"","Grasa Total":"","Energía":"40"}
+
+]

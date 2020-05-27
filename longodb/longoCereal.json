@@ -1,0 +1,26 @@
+[
+{"Alimento":"","Carbohidratos totales":"g","Proteínas":"g","Grasa Total":"g","Energía":"kcal"}
+,
+{"Alimento":"Cereales y derivados","Carbohidratos totales":"70","Proteínas":"12","Grasa Total":"","Energía":"328"}
+,
+{"Alimento":"Copos de cereales","Carbohidratos totales":"63","Proteínas":"13","Grasa Total":"4","Energía":"343"}
+,
+{"Alimento":"Féculas","Carbohidratos totales":"88","Proteínas":"","Grasa Total":"","Energía":"352"}
+,
+{"Alimento":"Legumbres","Carbohidratos totales":"59","Proteínas":"20","Grasa Total":"2","Energía":"334"}
+,
+{"Alimento":"Harina de legumbres","Carbohidratos totales":"60","Proteínas":"23","Grasa Total":"1","Energía":"341"}
+,
+{"Alimento":"Soja","Carbohidratos totales":"31","Proteínas":"38","Grasa Total":"18","Energía":"438"}
+,
+{"Alimento":"Harina de soja","Carbohidratos totales":"37","Proteínas":"43","Grasa Total":"7","Energía":"383"}
+,
+{"Alimento":"Pan comun francés","Carbohidratos totales":"60","Proteínas":"10","Grasa Total":"","Energía":"280"}
+,
+{"Alimento":"Pan común integral","Carbohidratos totales":"50","Proteínas":"10","Grasa Total":"","Energía":"240"}
+,
+{"Alimento":"Pan lactal blanco","Carbohidratos totales":"54","Proteínas":"9","Grasa Total":"2","Energía":"270"}
+,
+{"Alimento":"Pan lactal integral","Carbohidratos totales":"51","Proteínas":"8","Grasa Total":"3","Energía":"263"}
+
+]
