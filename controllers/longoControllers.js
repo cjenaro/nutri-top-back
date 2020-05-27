@@ -110,6 +110,6 @@ async function getAll(collection) {
 
 async function getByName(collection, req) {
     if (!req.params.name) throw new Error('No name was provided!')
-    const result = await db[collection].find().filter(i => (i.Alimento.toLowerCase().includes(req.params.name.toLowerCase())))
+    const result = await db[collection].find().filter(i => (i.Alimento.toLowerCase().includes(req.params.name.toLowerCase()) || i['Energía'] === 'kcal'))
     return result
 }
